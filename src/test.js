@@ -1,5 +1,5 @@
 /*global mocha */
-
+/* and test */
 // Test harness to run the full suite
 mocha.setup( "bdd" );
 wb.doc.on( "wb-ready.wb", function() {
